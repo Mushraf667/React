@@ -7,7 +7,6 @@ let age=18;
 let userage=20;
   return (
     <>
-    
     <h1 style={{color:"blue"}}>Page for {name}</h1>
     <div style={{display:"flex"}}>
     <img style={{width:280}} 
